@@ -1,5 +1,17 @@
 * { 
     font-family: Verdana, Geneva, sans-serif;
     color: #285929;
-    background-color: #c7f0c8;
+    background-color: #c7f0c8 !important;
+}
+a:link {
+    color: blue;
+  }
+a:visited {
+color: maroon;
+}
+a:hover {
+color: cornflowerblue;
+}
+a:active {
+color: cyan;
 }
